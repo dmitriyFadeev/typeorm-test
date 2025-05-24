@@ -1,1 +1,1 @@
-# typeorm-test
+env можно получить из docker-compose для тестового развертывания
